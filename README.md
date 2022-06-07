@@ -30,10 +30,19 @@
 
 ### General development tools
 - [cheat.sh/:firstpage](https://cheat.sh/)
+- [explainshell.com - match command-line arguments to their help text](https://explainshell.com)
+- [OverAPI](https://overapi.com)
+- [GitSheet](https://gitsheet.wtf)
+- [Git Hint](https://git-hint.netlify.app/?ref=producthunt)
+- [tldr pages](https://tldr.sh)
+- [GitHub - nicolargo/glances: Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.](https://github.com/nicolargo/glances)
+- [GitHub - ogham/exa: A modern replacement for ‘ls’.](https://github.com/ogham/exa)
+- [GitHub - jlevy/the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line#windows-only)
+- [Developer Roadmaps](https://roadmap.sh/)
 - [DevToys: A Swiss Army knife for developers.](https://github.com/veler/DevToys)
 - [GitHub Codespaces · GitHub](https://github.com/features/codespaces)
 - [GitHub Copilot · Your AI pair programmer](https://copilot.github.com/)
-
+- [Welcome To Colaboratory - Colaboratory](https://colab.research.google.com/)
 
 ### Computer Graphics
 - [Shadertoy](https://www.shadertoy.com/)
@@ -45,7 +54,7 @@
 
 
 
-### General ML and AI
+### General Machine learning, Artificial intelligence and Data mining
 - [PerceptiLabs](https://docs.perceptilabs.com/perceptilabs/)
 - [Kaggle](https://www.kaggle.com/#)
 - [NVIDIA Isaac Sim | NVIDIA Developer](https://developer.nvidia.com/isaac-sim)
