@@ -65,8 +65,9 @@
 - [Nicholas Renotte](https://www.youtube.com/c/NicholasRenotte/videos)
 - [CodeEmporium](https://www.youtube.com/c/CodeEmporium/videos)
 - [MLU-Explain](https://mlu-explain.github.io/)
-
-
+- [GitHub - microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all](https://github.com/microsoft/ML-For-Beginners)
+- [GitHub - microsoft/AI-For-Beginners: 12 Weeks, 24 Lessons, AI for All!](https://github.com/microsoft/AI-For-Beginners)
+- [Machine Learning by Stanford University | Coursera](https://www.coursera.org/learn/machine-learning)
 
 ___
 
