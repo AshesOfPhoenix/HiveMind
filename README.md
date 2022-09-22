@@ -3,17 +3,28 @@
 ## General Apps, Programs and Websites
 ### Apps
 - [YouTube Vanced](https://youtubevanced.com/#google_vignette)
+- [YouTube ReVanced](https://github.com/revanced)
 
 ### Browser extensions
 - [Return YouTube Dislike](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi)
+- [YouTube NonStop](https://chrome.google.com/webstore/detail/youtube-nonstop/nlkaejimjacpillmajjnopmpbkbnocid)
+- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=sl)
+- [Ears - EQ](https://chrome.google.com/webstore/detail/ears-bass-boost-eq-any-au/nfdfiepdkbnoanddpianalelglmfooik)
 
 ### Websites
 - [Typing Practice](https://www.keybr.com/)
-
+- [FirstRowSports](https://firstsrowsports.eu/)
+- [Sflix](https://sflix.to/)
+- [All Key Shop](https://www.allkeyshop.com/blog/)
+- [HackerNews](https://news.ycombinator.com/)
+- [Anand Tech](https://www.anandtech.com/)
+- [Geizhals](https://geizhals.de/)
 
 ### Programs
 #### General usecase
 - [PowerToys: Windows system utilities to maximize productivity](https://github.com/microsoft/PowerToys)
+- [Libre Wolf](https://librewolf.net/)
+
 
 
 #### Advanced (ex. Computer management)
@@ -22,8 +33,11 @@
 
 
 ## Learning platforms (Courses, Tutorials, etc.)
+- [Zlibrary](https://b-ok.xyz/)
 - [O'Reilly Media - Technology and Business Training](https://www.oreilly.com/)
 - [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/)
+- [eNSA-splet](https://nsa-splet.si/index.php)
+
 
 
 ## Computer Science 
@@ -43,6 +57,8 @@
 - [GitHub Codespaces · GitHub](https://github.com/features/codespaces)
 - [GitHub Copilot · Your AI pair programmer](https://copilot.github.com/)
 - [Welcome To Colaboratory - Colaboratory](https://colab.research.google.com/)
+- [Free-for.dev](https://free-for.dev/#/?id=free-fordev)
+
 
 ### Computer Graphics
 - [Shadertoy](https://www.shadertoy.com/)
@@ -92,6 +108,7 @@ ___
 ### Torrents
 - [Nyaa](https://nyaa.si/)
 - [Shana Project](https://www.shanaproject.com/)
+- [RARBG](https://rarbgway.org/torrents.php?search=&category%5B%5D=40)
 
 
 ___
