@@ -1,4 +1,13 @@
 # The Resource HiveMind
+> The collection of things I have collected over time, which include: 
+> 	- tools
+> 	- resources
+> 	- apps
+> 	- cheatsheets
+> 	- extensions
+> 	- courses
+> 	- packages
+ 
 
 ## General Apps, Programs and Websites
 ### Apps
@@ -21,11 +30,18 @@
 - [FanControl.Releases: This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.](https://github.com/Rem0o/FanControl.Releases)
 
 
+### Browsers
+- [Waterfox](https://www.waterfox.net/)
+- [Iridium Browser | A browser securing your privacy. That’s it.](https://iridiumbrowser.de/)
+- [Vivaldi Browser | Now with built-in Translate, Mail, and Calendar](https://vivaldi.com/)
+- [Secure, Fast & Private Web Browser with Adblocker | Brave Browser](https://brave.com/)
+
+___
 ## Learning platforms (Courses, Tutorials, etc.)
 - [O'Reilly Media - Technology and Business Training](https://www.oreilly.com/)
 - [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/)
 
-
+___
 ## Computer Science 
 
 ### General development tools
@@ -43,6 +59,8 @@
 - [GitHub Codespaces · GitHub](https://github.com/features/codespaces)
 - [GitHub Copilot · Your AI pair programmer](https://copilot.github.com/)
 - [Welcome To Colaboratory - Colaboratory](https://colab.research.google.com/)
+- [https://libcinder.org/docs/index.html](https://libcinder.org/docs/index.html)
+- [Workspace | Python & R Data Science IDEs in the cloud | DataCamp](https://www.datacamp.com/workspace)
 
 ### Computer Graphics
 - [Shadertoy](https://www.shadertoy.com/)
@@ -60,14 +78,43 @@
 - [NVIDIA Isaac Sim | NVIDIA Developer](https://developer.nvidia.com/isaac-sim)
 - [microsoft/nni: An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.](https://github.com/microsoft/nni)
 
+#### Visualizations
+- [Data Viz Project | Collection of data visualizations to get inspired and finding the right type.](https://datavizproject.com/)
 
 #### Learning resources
+- [StrataScratch](https://www.youtube.com/channel/UCW8Ews7tdKKkBT6GdtQaXvQ/videos)
 - [Nicholas Renotte](https://www.youtube.com/c/NicholasRenotte/videos)
 - [CodeEmporium](https://www.youtube.com/c/CodeEmporium/videos)
 - [MLU-Explain](https://mlu-explain.github.io/)
 - [GitHub - microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all](https://github.com/microsoft/ML-For-Beginners)
 - [GitHub - microsoft/AI-For-Beginners: 12 Weeks, 24 Lessons, AI for All!](https://github.com/microsoft/AI-For-Beginners)
 - [Machine Learning by Stanford University | Coursera](https://www.coursera.org/learn/machine-learning)
+- [Dive into Deep Learning — Dive into Deep Learning 0.17.5 documentation](https://d2l.ai/)
+- [Pen and Paper Exercises in Machine Learning](https://arxiv.org/pdf/2206.13446.pdf)
+- 
+- [100DaysOfMLCode](https://media-exp1.licdn.com/dms/document/C4D1FAQHhn_ieyqzP2w/feedshare-document-pdf-analyzed/0/1657018373501?e=1657756800&v=beta&t=XINEfR-rKJNK0u-90PiBvhVUGyTsT0DbH_Gr7VsGL9g)
+
+#### Data Science (and Python) Resources General
+- [khuyentran1401/awesome-Python-data-science-books: Probably the best curated list of data science books in Python](https://github.com/khuyentran1401/awesome-Python-data-science-books)
+- [khuyentran1401/Data-science: Collection of useful data science topics along with code and articles](https://github.com/khuyentran1401/Data-science)
+- [khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists: Efficient Python Tricks and Tools for Data Scientists](https://github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists)
+- [Data Science Simplified](https://www.youtube.com/channel/UCNMawpMow-lW5d2svGhOEbw/videos)
+- [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
+
+
+
+#### By programming language
+##### *Python*
+- [pipx](https://pypa.github.io/pipx/)
+###### Standout Packages
+- *Visualization*
+	- [heartrate: Simple real time visualisation of the execution of a Python program.](https://github.com/alexmojaki/heartrate)
+	- [rich: Rich is a Python library for rich text and beautiful formatting in the terminal.](https://github.com/Textualize/rich)
+
+- *Debugging & Execution & Logging*
+	- [loguru: Python logging made (stupidly) simple](https://github.com/Delgan/loguru)
+	- [snoop: A powerful set of Python debugging tools, based on PySnooper](https://github.com/alexmojaki/snoop)
+
 
 ___
 
@@ -114,5 +161,21 @@ ___
 - [ChristosChristofidis/awesome-deep-learning: A curated list of awesome Deep Learning tutorials, projects and communities.](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [academic/awesome-datascience: An awesome Data Science repository to learn and apply for real world problems.](https://github.com/academic/awesome-datascience)
 - [neutraltone/awesome-stock-resources: A collection of links for free stock photography, video and Illustration websites](https://github.com/neutraltone/awesome-stock-resources)
+- [aviranzerioniac/awesome-piracy](https://github.com/aviranzerioniac/awesome-piracy)
+- [khuyentran1401/awesome-Python-data-science-books: Probably the best curated list of data science books in Python](https://github.com/khuyentran1401/awesome-Python-data-science-books)
+- [awesome-actions: A curated list of awesome actions to use on GitHub](https://github.com/sdras/awesome-actions)
+
+- [facundoolano/software-papers: 📚 A curated list of papers for Software Engineers](https://github.com/facundoolano/software-papers)
+
+
+
+
+
+
+
+
+
+
+
 
 ___
