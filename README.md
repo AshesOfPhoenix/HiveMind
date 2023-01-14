@@ -7,7 +7,8 @@
 > 	- extensions
 > 	- courses
 > 	- packages
- 
+
+> P.S. Some things might appear in several topics, but that is OK unless it clutters
 
 ## General Apps, Programs and Websites
 ### Apps
@@ -20,7 +21,15 @@
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=sl)
 - [Ears - EQ](https://chrome.google.com/webstore/detail/ears-bass-boost-eq-any-au/nfdfiepdkbnoanddpianalelglmfooik)
 
-### Websites
+### Websites - by Broader Topic
+#### Presentations, writing and reading
+- [Tome](https://tome.app/presentations-8b3)
+
+#### Communications
+- [Superhuman](https://superhuman.com/)
+
+
+#### General
 - [Typing Practice](https://www.keybr.com/)
 - [FirstRowSports](https://firstsrowsports.eu/)
 - [Sflix](https://sflix.to/)
@@ -28,11 +37,12 @@
 - [HackerNews](https://news.ycombinator.com/)
 - [Anand Tech](https://www.anandtech.com/)
 - [Geizhals](https://geizhals.de/)
+- [Spreadsheets - Grist](https://docs.getgrist.com/)
 
 ### Programs
 #### General usecase
 - [PowerToys: Windows system utilities to maximize productivity](https://github.com/microsoft/PowerToys)
-- [Libre Wolf](https://librewolf.net/)
+- [DevToys: A Swiss Army knife for developers.](https://github.com/veler/DevToys)
 
 
 
@@ -46,13 +56,33 @@
 - [Iridium Browser | A browser securing your privacy. That’s it.](https://iridiumbrowser.de/)
 - [Vivaldi Browser | Now with built-in Translate, Mail, and Calendar](https://vivaldi.com/)
 - [Secure, Fast & Private Web Browser with Adblocker | Brave Browser](https://brave.com/)
+- [Libre Wolf](https://librewolf.net/)
+
+---
+## Productivity tools - Combined
+
+- [Tome](https://tome.app)
+- [Superhuman](https://superhuman.com/)
+- [Pieces for Developers Desktop App](https://code.pieces.app/install)
+
+---
+## Finance Collection
+
+- [ETF portfolios made simple | justETF](https://www.justetf.com/en/)
+
+### ML Trading
+
+- [Design and trade algorithmic trading strategies in a web browser, with free financial data, cloud backtesting and capital - QuantConnect.com](https://www.quantconnect.com/)
 
 ___
 ## Learning platforms (Courses, Tutorials, etc.)
+
 - [Zlibrary](https://b-ok.xyz/)
 - [O'Reilly Media - Technology and Business Training](https://www.oreilly.com/)
 - [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/)
 - [eNSA-splet](https://nsa-splet.si/index.php)
+
+### Specific
 
 ___
 
@@ -76,6 +106,7 @@ ___
 - [https://libcinder.org/docs/index.html](https://libcinder.org/docs/index.html)
 - [Workspace | Python & R Data Science IDEs in the cloud | DataCamp](https://www.datacamp.com/workspace)
 - [Free-for.dev](https://free-for.dev/#/?id=free-fordev)
+- [Pieces for Developers Desktop Apps](https://code.pieces.app/install)
 
 ### Computer Graphics
 - [Shadertoy](https://www.shadertoy.com/)
@@ -88,17 +119,23 @@ ___
 
 
 ### General Machine learning, Artificial intelligence and Data mining
+
 - [PerceptiLabs](https://docs.perceptilabs.com/perceptilabs/)
 - [Kaggle](https://www.kaggle.com/#)
 - [NVIDIA Isaac Sim | NVIDIA Developer](https://developer.nvidia.com/isaac-sim)
-- [microsoft/nni: An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.](https://github.com/microsoft/nni)
+- [Hugging Face – The AI community building the future.](https://huggingface.co/)
+- [Buildspace](https://buildspace.so/)
+- [Design and trade algorithmic trading strategies in a web browser, with free financial data, cloud backtesting and capital - QuantConnect.com](https://www.quantconnect.com/)
 
 #### Visualizations
 - [Data Viz Project | Collection of data visualizations to get inspired and finding the right type.](https://datavizproject.com/)
 
+
+
+
 #### Learning resources
 - [StrataScratch](https://www.youtube.com/channel/UCW8Ews7tdKKkBT6GdtQaXvQ/videos)
-- [Nicholas Renotte](https://www.youtube.com/c/NicholasRenotte/videos)
+
 - [CodeEmporium](https://www.youtube.com/c/CodeEmporium/videos)
 - [MLU-Explain](https://mlu-explain.github.io/)
 - [GitHub - microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all](https://github.com/microsoft/ML-For-Beginners)
@@ -106,8 +143,27 @@ ___
 - [Machine Learning by Stanford University | Coursera](https://www.coursera.org/learn/machine-learning)
 - [Dive into Deep Learning — Dive into Deep Learning 0.17.5 documentation](https://d2l.ai/)
 - [Pen and Paper Exercises in Machine Learning](https://arxiv.org/pdf/2206.13446.pdf)
-- 
+- [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/)
 - [100DaysOfMLCode](https://media-exp1.licdn.com/dms/document/C4D1FAQHhn_ieyqzP2w/feedshare-document-pdf-analyzed/0/1657018373501?e=1657756800&v=beta&t=XINEfR-rKJNK0u-90PiBvhVUGyTsT0DbH_Gr7VsGL9g)
+- [One machine learning question every day - bnomial](https://today.bnomial.com/)
+- [Tech I'm Learning in 2023, Free Courses and Books - YouTube](https://www.youtube.com/watch?v=8sidnD2Wu2c)
+
+
+
+
+### Courses
+- [Lesson 1: Practical Deep Learning for Coders 2022 - YouTube](https://www.youtube.com/watch?v=8SF_h3xF3cE&list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU&index=2)
+- [Deep Reinforcement Learning Course](https://simoninithomas.github.io/deep-rl-course/)
+- [GitHub - huggingface/diffusion-models-class: Materials for the Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class)
+- 
+### YouTube channels
+- [Yannic Kilcher - YouTube](https://www.youtube.com/@YannicKilcher)
+- [Nicholas Renotte](https://www.youtube.com/c/NicholasRenotte/videos)
+
+
+### Library specific
+- [Deep Learning with PyTorch: A 60 Minute Blitz — PyTorch Tutorials 1.13.1+cu117 documentation](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+
 
 #### Data Science (and Python) Resources General
 - [khuyentran1401/awesome-Python-data-science-books: Probably the best curated list of data science books in Python](https://github.com/khuyentran1401/awesome-Python-data-science-books)
@@ -115,8 +171,11 @@ ___
 - [khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists: Efficient Python Tricks and Tools for Data Scientists](https://github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists)
 - [Data Science Simplified](https://www.youtube.com/channel/UCNMawpMow-lW5d2svGhOEbw/videos)
 - [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
-
-
+- [Data Science Tools](https://www.mit.edu/~amidi/teaching/data-science-tools/)
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+- [Machine learning articles - Bnomial](https://articles.bnomial.com/)
+- [Hugging Face – The AI community building the future.](https://huggingface.co/)
+- - [microsoft/nni: An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.](https://github.com/microsoft/nni)
 
 #### By programming language
 ##### *Python*
