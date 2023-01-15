@@ -69,6 +69,9 @@
 ## Finance Collection
 
 - [ETF portfolios made simple | justETF](https://www.justetf.com/en/)
+- [Portfolio tracker](https://portfoliocharts.com/portfolio/my-portfolio/)
+- [Prijava davka na delnice FURS](https://www.fu.gov.si/zivljenjski_dogodki_prebivalci/odsvojil_sem_vrednostne_papirje_druge_deleze_ali_investicijske_kupone/)
+- [Prijava davka tutorial](https://www.youtube.com/watch?v=CLcYRVMuZ7U&list=PLIhqsqxIQXCmnQDD11BxeOt8nQ_OKhnhI&index=13&t=11s)
 
 ### ML Trading
 
