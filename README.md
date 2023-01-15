@@ -58,6 +58,10 @@
 - [Secure, Fast & Private Web Browser with Adblocker | Brave Browser](https://brave.com/)
 - [Libre Wolf](https://librewolf.net/)
 
+### Movies
+
+- [Zganjeflix](https://accounts.zganje.com/invite/NA7YoT26Lu8UU2yJRe8DQ6)
+
 ---
 ## Productivity tools - Combined
 
@@ -68,7 +72,16 @@
 ---
 ## Finance Collection
 
+### General
+
 - [ETF portfolios made simple | justETF](https://www.justetf.com/en/)
+- [WallStreetZen](https://www.wallstreetzen.com/users/dashboard)
+
+
+### News
+
+- [Yahoo Finance](https://finance.yahoo.com/)
+
 
 ### ML Trading
 
@@ -108,6 +121,7 @@ ___
 - [Free-for.dev](https://free-for.dev/#/?id=free-fordev)
 - [Pieces for Developers Desktop Apps](https://code.pieces.app/install)
 
+
 ### Computer Graphics
 - [Shadertoy](https://www.shadertoy.com/)
 
@@ -135,8 +149,6 @@ ___
 
 #### Learning resources
 - [StrataScratch](https://www.youtube.com/channel/UCW8Ews7tdKKkBT6GdtQaXvQ/videos)
-
-- [CodeEmporium](https://www.youtube.com/c/CodeEmporium/videos)
 - [MLU-Explain](https://mlu-explain.github.io/)
 - [GitHub - microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all](https://github.com/microsoft/ML-For-Beginners)
 - [GitHub - microsoft/AI-For-Beginners: 12 Weeks, 24 Lessons, AI for All!](https://github.com/microsoft/AI-For-Beginners)
@@ -155,10 +167,16 @@ ___
 - [Lesson 1: Practical Deep Learning for Coders 2022 - YouTube](https://www.youtube.com/watch?v=8SF_h3xF3cE&list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU&index=2)
 - [Deep Reinforcement Learning Course](https://simoninithomas.github.io/deep-rl-course/)
 - [GitHub - huggingface/diffusion-models-class: Materials for the Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class)
-- 
+
+
+
 ### YouTube channels
+
 - [Yannic Kilcher - YouTube](https://www.youtube.com/@YannicKilcher)
 - [Nicholas Renotte](https://www.youtube.com/c/NicholasRenotte/videos)
+- [codebasics - YouTube](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ)
+- [CodeEmporium](https://www.youtube.com/c/CodeEmporium/videos)
+- [Part Time Larry - YouTube](https://www.youtube.com/@parttimelarry)
 
 
 ### Library specific
