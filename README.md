@@ -1,8 +1,16 @@
 # The Ultimate Resource HiveMind
 > This is a personal collection of things I have collected over time.
 
-If you want to contribute to the collection, please follow the markdown language standard.
+_If you want to contribute to the collection, please follow the markdown language standard._
+I edit this file in Obsidian, where I also manage my notes and everything else, as well as this file. For better editing experience I suggest using it, by cloning this directory in some chosen subdirectory of your Vault.
+The layout is in it's early stages so if you have a better idea on how to structure it please feel free to suggest on how to improve it 😇!
+
+![SampleObsidian|800](img/obsidian_sample.png)
+
+
 P.S. Some things might appear in several topics, but that is OK unless it clutters
+
+___
 
 ## General Apps, Programs and Websites
 ### Apps
