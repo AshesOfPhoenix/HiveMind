@@ -41,6 +41,12 @@ ___
 
 - [Superhuman - AI powered email client for speeding up productivity](https://superhuman.com/) - Paid
 
+### Downloaders & Converters
+
+- [Youtube to MP4](https://en.y2mate.is/148/youtube-to-mp4.html) 
+- [Tiktok no watermark](https://ssstik.io/en) 
+- [Instagram to MP4](https://www.save-insta.com/video-downloader/)
+- [Video trimmer](https://online-video-cutter.com/)
 
 #### General
 
@@ -219,7 +225,6 @@ ___
 
 
 
-
 #### Courses
 
 - [Lesson 1: Practical Deep Learning for Coders 2022 - YouTube](https://www.youtube.com/watch?v=8SF_h3xF3cE&list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU&index=2)
@@ -286,6 +291,19 @@ ___
 
 - [React Tutorial: Learn React JS - Free 11-Hour Course](https://scrimba.com/learn/learnreact?utm_source=buildspace.so&utm_medium=buildspace_project)
 - [Learn JavaScript for free - 7-hour interactive tutorial](https://scrimba.com/learn/learnjavascript?utm_source=buildspace.so&utm_medium=buildspace_project)
+
+___
+
+## Fitnes & health
+
+### Best shops for supplements
+
+- [FutuNatura](https://www.futunatura.si/)
+- [AOB Nutrition](https://aobnutrition.ie/)
+- [ESN](https://www.esn.com/en)
+- [Myprotein](https://si.myprotein.com/)
+- [Polleosport](https://polleosport.si/)
+- [Proteini.si](https://www.proteini.si/sl/)
 
 ___
 
