@@ -2,7 +2,9 @@
 > This is a personal collection of things I have collected over time.
 
 _If you want to contribute to the collection, please follow the markdown language standard._
+
 I edit this file in Obsidian, where I also manage my notes and everything else, as well as this file. For better editing experience I suggest using it, by cloning this directory in some chosen subdirectory of your Vault.
+
 The layout is in it's early stages so if you have a better idea on how to structure it please feel free to suggest on how to improve it 😇!
 
 ![SampleObsidian|800](img/obsidian_sample.png)
@@ -13,6 +15,7 @@ P.S. Some things might appear in several topics, but that is OK unless it clutte
 ___
 
 ## General Apps, Programs and Websites
+
 ### Apps
 
 - [YouTube ReVanced](https://github.com/revanced)
@@ -29,6 +32,7 @@ ___
 - [HoverZoom: Google Chrome extension for zooming images on mouse hover](https://github.com/extesy/hoverzoom/)
 
 ### Websites - by Broader Topic
+
 #### Presentations, writing and reading
 
 - [Tome - An AI powered slides/presentation creator](https://tome.app/invite/kristjan-krizman-clcf7qy26qk0r3a584wj26yhk) - Free credits, then Paid
@@ -77,6 +81,13 @@ ___
 
 - [Zganjeflix](https://accounts.zganje.com/invite/NA7YoT26Lu8UU2yJRe8DQ6)
 
+
+### Discord 
+
+#### Bots
+
+- [BitBot - Crpto bots that show current price](https://new.bitbot.tools/tickers)
+
 ---
 ## Productivity tools - Combined
 
@@ -91,11 +102,18 @@ ___
 ### General
 
 - [ETF portfolios made simple | justETF](https://www.justetf.com/en/)
-- [Portfolio tracker](https://portfoliocharts.com/portfolio/my-portfolio/)
-- [Prijava davka na delnice FURS](https://www.fu.gov.si/zivljenjski_dogodki_prebivalci/odsvojil_sem_vrednostne_papirje_druge_deleze_ali_investicijske_kupone/)
-- [Prijava davka tutorial](https://www.youtube.com/watch?v=CLcYRVMuZ7U&list=PLIhqsqxIQXCmnQDD11BxeOt8nQ_OKhnhI&index=13&t=11s)
+- [Portfolio tracker](https://portfoliocharts.com/)
 - [WallStreetZen](https://www.wallstreetzen.com/users/dashboard)
+- [TradingLab - Trading Terminology](https://docs.tradinglab.ai/)
+- [Tradervue Trading Journal - Journal, Analyze, and Share your trades](https://www.tradervue.com/)
 
+### Finance - Slovenian Market
+
+- [Razlike med s.p. in d.o.o.](https://mladipodjetnik.si/podjetniski-koticek/racunovodstvo/razlike-med-s-p-in-d-o-o)
+- [Prispevki za enoosebni d.o.o. za poslovodne osebe](https://mladipodjetnik.si/novice-in-dogodki/novice/prispevki-za-enoosebni-d-o-o-za-poslovodne-osebe)
+- [Prijava davka na delnice FURS](https://www.fu.gov.si/zivljenjski_dogodki_prebivalci/odsvojil_sem_vrednostne_papirje_druge_deleze_ali_investicijske_kupone/)
+- [Prijava davka tutorial - YouTube](https://www.youtube.com/watch?v=CLcYRVMuZ7U&list=PLIhqsqxIQXCmnQDD11BxeOt8nQ_OKhnhI&index=13&t=11s)
+- [Kriptovalute | Skrita Znanost | Crypto | Izola](https://www.skrita-znanost.com/)
 
 ### News
 
