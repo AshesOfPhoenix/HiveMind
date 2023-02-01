@@ -3,14 +3,14 @@
 
 _If you want to contribute to the collection, please follow the markdown language standard._
 
-I edit this file in Obsidian, where I also manage my notes and everything else, as well as this file. For better editing experience I suggest using it, by cloning this directory in some chosen subdirectory of your Vault.
+I edit this file in [Obsidian](https://obsidian.md/), where I also manage my notes and everything else as well as this file. For better editing experience I suggest using it, by cloning this directory in some chosen subdirectory of your Vault.
 
 The layout is in it's early stages so if you have a better idea on how to structure it please feel free to suggest on how to improve it 😇!
 
 ![SampleObsidian|800](img/obsidian_sample.png)
 
 
-P.S. Some things might appear in several topics, but that is OK unless it clutters
+P.S. Some things might appear in several topics, but that is OK unless it clutters.
 
 ___
 
@@ -30,6 +30,8 @@ ___
 - [Ears - EQ](https://chrome.google.com/webstore/detail/ears-bass-boost-eq-any-au/nfdfiepdkbnoanddpianalelglmfooik)
 - [Grammarly: Free Online Writing Assistant](https://app.grammarly.com/)
 - [HoverZoom: Google Chrome extension for zooming images on mouse hover](https://github.com/extesy/hoverzoom/)
+- [ClearURLs: Automatically remove tracking elements from URLs.](https://github.com/ClearURLs/Addon)
+- [DownThemAll!](https://www.downthemall.net/)
 
 ### Websites - by Broader Topic
 
@@ -61,7 +63,7 @@ ___
 - [PowerToys: Windows system utilities to maximize productivity](https://github.com/microsoft/PowerToys)
 - [DevToys: A Swiss Army knife for developers.](https://github.com/veler/DevToys)
 - [KeePassXC - Local and Secure Password Manager](https://keepassxc.org/)
-
+- [Pieces - Save your most used clipboards and organize it for later use](https://code.pieces.app/install)  - Free
 
 #### Advanced (ex. Computer management)
 
@@ -86,7 +88,7 @@ ___
 
 #### Bots
 
-- [BitBot - Crpto bots that show current price](https://new.bitbot.tools/tickers)
+- [BitBot - Crypto bots that show current price](https://new.bitbot.tools/tickers)
 
 ---
 ## Productivity tools - Combined
@@ -122,7 +124,7 @@ ___
 
 ### ML Trading
 
-- [Design and trade algorithmic trading strategies in a web browser, with free financial data, cloud backtesting and capital - QuantConnect.com](https://www.quantconnect.com/)
+- [QuantConnect - For algorithmic trading strategies in a browser](https://www.quantconnect.com/)
 
 ### Crypto 
 
@@ -137,6 +139,7 @@ ___
 
 ### Specific
 
+- TBA
 ___
 
 ## Computer Science 
@@ -161,7 +164,7 @@ ___
 - [Workspace | Python & R Data Science IDEs in the cloud | DataCamp](https://www.datacamp.com/workspace)
 - [Free-for.dev](https://free-for.dev/#/?id=free-fordev)
 - [Pieces - Save your most used clipboards and organize it for later use](https://code.pieces.app/install)  - Free
-
+- [Choose an open source license - Choose a License](https://choosealicense.com/)
 
 ### Computer Graphics
 
@@ -175,7 +178,7 @@ ___
 
 
 
-### General Machine learning, Artificial intelligence and Data mining
+### General Data Science, Machine learning, Artificial intelligence and Data mining
 
 - [PerceptiLabs](https://docs.perceptilabs.com/perceptilabs/)
 - [Kaggle](https://www.kaggle.com/#)
@@ -259,7 +262,7 @@ ___
 
 - [Banana - Machine Learning Model Deployment on Serverless GPUs](https://www.banana.dev/?utm_source=buildspace.so&utm_medium=buildspace_project)
 - [Brev](https://brev.dev/?utm_source=buildspace.so&utm_medium=buildspace_project)
-- [Railway](https://railway.app/)
+- [Railway](https://railway.app?referralCode=47fwx1)
 
 #### By programming language - Libraries and Tools
 
