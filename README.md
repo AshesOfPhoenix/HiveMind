@@ -128,9 +128,12 @@ ___
 - [Yahoo Finance](https://finance.yahoo.com/)
 
 
-### ML Trading
+### Algorithmic Trading
 
 - [QuantConnect - For algorithmic trading strategies in a browser](https://www.quantconnect.com/)
+
+#### Learning resources
+- [Quantitative Trading Ideas and Guides - AlgoTrading101 Blog](https://algotrading101.com/learn/)
 
 ### Crypto 
 
@@ -183,6 +186,10 @@ ___
 - [Learn OpenGL, extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com/)
 
 
+### Misc
+
+- [Validate Windows Paths - Regular Expressions Cookbook, 2nd Edition [Book]](https://www.oreilly.com/library/view/regular-expressions-cookbook/9781449327453/ch08s18.html)
+
 
 ### General Data Science, Machine learning, Artificial intelligence and Data mining
 
@@ -225,7 +232,7 @@ ___
 - [100DaysOfMLCode](https://media-exp1.licdn.com/dms/document/C4D1FAQHhn_ieyqzP2w/feedshare-document-pdf-analyzed/0/1657018373501?e=1657756800&v=beta&t=XINEfR-rKJNK0u-90PiBvhVUGyTsT0DbH_Gr7VsGL9g)
 - [One machine learning question every day - bnomial](https://today.bnomial.com/)
 - [Tech I'm Learning in 2023, Free Courses and Books - YouTube](https://www.youtube.com/watch?v=8sidnD2Wu2c)
-
+- [AlgoTrading101](https://algotrading101.com/learn/)
 
 
 #### Courses
